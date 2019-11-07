@@ -1,2 +1,5 @@
-# ML-training
-This repo aims to strengthen fundamentals and introduce the readers to new and advanced concepts of machine learning and deep learning concepts
+# EBI Modeling Team - Stats/ML KT 
+
+A repo for creating the knowledge base for the EBI team
+
+Aim is to strengthen the fundamentals and give introduction into various concepts - beginner and advanced AI/ML techniques
